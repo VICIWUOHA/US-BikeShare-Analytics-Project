@@ -1,2 +1,2 @@
 # US-BikeShare-Analytics-Project
-A Python File that gives Descriptive Analytics and Insights into a US Bikeshare dataset.
+A Python CLI Script that gives Descriptive Analytics and Insights into a US Bikeshare dataset.
